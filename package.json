@@ -1,0 +1,21 @@
+{
+  "name": "vibe-check-api",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/sheikh-mohammad/vibe-check-api#readme",
+  "bugs": {
+    "url": "https://github.com/sheikh-mohammad/vibe-check-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheikh-mohammad/vibe-check-api.git"
+  },
+  "license": "ISC",
+  "author": "Sheikh Mohammad",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
